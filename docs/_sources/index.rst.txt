@@ -1,10 +1,10 @@
-.. Flask Tutorial documentation master file, created by
-   sphinx-quickstart on Tue Sep 11 19:40:36 2018.
+.. Flask チュートリアル documentation master file, created by
+   sphinx-quickstart on Tue Sep 11 22:09:04 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Flask チュートリアル
-==========================================
+Welcome to Flask チュートリアル's documentation!
+================================================
 
 .. toctree::
    :maxdepth: 2
