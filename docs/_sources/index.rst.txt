@@ -11,10 +11,3 @@ Welcome to Flask チュートリアル's documentation!
    :caption: Contents:
 
    chapter-1
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
